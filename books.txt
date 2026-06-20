@@ -1,0 +1,48 @@
+To Kill a Mockingbird|Harper Lee|1960|True
+1984|George Orwell|1949|True
+The Great Gatsby|F. Scott Fitzgerald|1925|True
+The Sun Also Rises|Ernest Hemingway|1926|True
+A Portrait of the Artist as a Young Man|James Joyce|1916|True
+The Old Man and the Sea|Ernest Hemingway|1952|True
+Lolita|Vladimir Nabokov|1955|True
+A Tale of Two Cities|Charles Dickens|1859|True
+Pedro Páramo|Juan Rulfo|1955|True
+The Giver|Lois Lowry|1993|True
+Catch-22|Joseph Heller|1961|True
+The Adventures of Huckleberry Finn|Mark Twain|1884|True
+Animal Farm|George Orwell|1945|True
+Ficciones|Jorge Luis Borges|1944|True
+Dracula|Bram Stoker|1897|True
+Lord Jim|Joseph Conrad|1900|True
+Madame Bovary|Gustave Flaubert|1856|True
+The Fire Next Time|James Baldwin|1963|True
+The Alchemist|Paulo Coelho|1988|True
+Breakfast of Champions|Kurt Vonnegut|1973|True
+The Sound and the Fury|William Faulkner|1929|True
+Song of Solomon|Toni Morrison|1977|True
+Of Mice and Men|John Steinbeck|1937|True
+Harry Potter|J.K.Rowling|1997|True
+Ulysses|James Joyce|1922|True
+The Catcher in the Rye|J.D. Salinger|1951|True
+Speak, Memory|Vladimir Nabokov|1951|True
+The Brothers Karamazov|Fyodor Dostoevsky|1880|True
+This Side of Paradise|F. Scott Fitzgerald|1920|True
+A Christmas Carol|Charles Dickens|1843|True
+Sula|Toni Morrison|1973|True
+The Lord of the Rings|J.R.R. Tolkien|1954|True
+Orlando|Virginia Woolf|1928|True
+The Count of Monte Cristo|Alexandre Dumas|1844|True
+The Labyrinth of Solitude|Octavio Paz|1950|True
+Great Expectations|Charles Dickens|1861|True
+The Great Gatsby|F. Scott Fitzgerald|1925|True
+Jane Eyre|Charlotte Brontë|1847|True
+Go Tell It on the Mountain|James Baldwin|1953|True
+Walden|Henry David Thoreau|1854|True
+Fahrenheit 451|Ray Bradbury|1953|True
+Love in the Time of Cholera|Gabriel García Márquez|1985|True
+Anna Karenina|Leo Tolstoy|1877|True
+The Color Purple|Alice Walker|1982|True
+The Metamorphosis|Franz Kafka|1915|True
+To the Lighthouse|Virginia Woolf|1927|True
+The Adventures of Tom Sawyer|Mark Twain|1876|True
+The Master and Margarita|Mikhail Bulgakov|1967|True
