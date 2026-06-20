@@ -6,7 +6,7 @@ A Portrait of the Artist as a Young Man|James Joyce|1916|True
 The Old Man and the Sea|Ernest Hemingway|1952|True
 Lolita|Vladimir Nabokov|1955|True
 A Tale of Two Cities|Charles Dickens|1859|True
-Pedro Páramo|Juan Rulfo|1955|True
+Pedro PÃ¡ramo|Juan Rulfo|1955|True
 The Giver|Lois Lowry|1993|True
 Catch-22|Joseph Heller|1961|True
 The Adventures of Huckleberry Finn|Mark Twain|1884|True
@@ -35,11 +35,11 @@ The Count of Monte Cristo|Alexandre Dumas|1844|True
 The Labyrinth of Solitude|Octavio Paz|1950|True
 Great Expectations|Charles Dickens|1861|True
 The Great Gatsby|F. Scott Fitzgerald|1925|True
-Jane Eyre|Charlotte Brontë|1847|True
+Jane Eyre|Charlotte BrontÃ«|1847|True
 Go Tell It on the Mountain|James Baldwin|1953|True
 Walden|Henry David Thoreau|1854|True
 Fahrenheit 451|Ray Bradbury|1953|True
-Love in the Time of Cholera|Gabriel García Márquez|1985|True
+Love in the Time of Cholera|Gabriel GarcÃ­a MÃ¡rquez|1985|True
 Anna Karenina|Leo Tolstoy|1877|True
 The Color Purple|Alice Walker|1982|True
 The Metamorphosis|Franz Kafka|1915|True
